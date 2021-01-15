@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px;
+    font-family:'Roboto', sans-serif; ;
+}
+
+span{
+    color: gray;
+}
+
+a, a:link{
+    color: blue;
+    text-decoration: none;
+    
+}
+
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}

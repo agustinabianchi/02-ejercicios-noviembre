@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120px;  
+    font-weight: 800;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.Agustina{
+    color: blueviolet;
+}
+
+.Hotelera{
+    color: coral;
+}
+
+.Programadora{
+    color: darkgreen;
+}
+
+.Animales{
+    color: deeppink;
+}
